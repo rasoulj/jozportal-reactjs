@@ -1,0 +1,49 @@
+footer.copyright	Copyright Jozdan Project (c) 2020
+footer.contactUs	Contact Us
+roles.1-agencyAdmin	Agency Admin
+roles.2-branchAdmin	Branch Admin
+roles.3-branchAgent	Branch Agent
+roles.4-branchCustomer	Customer
+roles.5-none	No role
+pages.dashboard	Dashboard
+pages.home	Home
+pages.wallet	Wallet
+pages.wallet.transactions	Transactions
+pages.settings	Settings
+pages.agent_management	Agent Management
+pages.agent_management.agents_list	List of Agents
+pages.agent_management.noAgent	No Agent defined for this branch
+pages.agent_management.addAgent	Add Agent
+pages.customer_management	Customer Management
+pages.customer_management.customers_list	List of Customers
+pages.customer_management.noCustomer	No Customer defined for this branch
+pages.customer_management.addCustomer	Add Customer
+pages.customer_management.editCustomer	Edit Customer
+pages.statement	Statement
+pages.orders	Orders
+pages.orders.accept_order	ACCEPT order
+pages.orders.accept_order.mes	Are you sure to ACCEPT the order?
+pages.orders.reject_order	REJECT order
+pages.orders.reject_order.mes	Are you sure to REJECT the order?
+pages.agency_rates	Agency Rates
+pages.rates	Rates
+pages.rates.hist	Rates History
+pages.rates.currentRates	Current Rates
+pages.rates.otherRates	Rates of Other Currencies
+pages.rates.history	History
+pages.transaction_fee	Transaction Fee
+pages.about_us	About us
+pages.branchManagement	Branch Management
+pages.branchManagement.noData	No branch exists
+pages.branchManagement.subTitle	List of existing Branches
+pages.branchManagement.adminManager	Admin Manager
+pages.branchManagement.rightLink	Add new Branch
+pages.viewBranch	View Branch
+pages.viewBranch.noAdmin	No Admin defined for this branch
+pages.viewBranch.info	General Info
+pages.viewBranch.info.addAdmin	Add Admin
+notImpl	**Oops! Not implemented yet!!!
+nodata	No data
+loading	Loading ...
+edit	Edit
+save	Save
